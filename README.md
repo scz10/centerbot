@@ -58,4 +58,4 @@ python main.py
 now its properly working and will send the data from your PC to NodemCU thorugh MQTT
 like gif video below
 ```
-![Demo centerbot](docs/Demo.gif)
+![Demo centerbot](https://i.giphy.com/media/ah1iDnP0NysOh7VYH1/giphy-downsized-large.gif)
